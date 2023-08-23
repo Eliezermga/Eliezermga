@@ -1,6 +1,6 @@
 - 👋 Salut, je suis Eliezer Mununga
-- 👀 Je m'intéresse à la programmation
-- 🌱 J'apprends actuellement l'algorithmique et certains languages de programmations
+- 👀 Je m'intéresse au devellopement de logiciel
+- 🌱 Je suis étudiat en Intelligence Artificielle
 - 📫 Comment me joindre, laissez moi un mail www.eliezer57@gmail.com
 <!-- 💞️ Je cherche à collaborer sur... --->
 
