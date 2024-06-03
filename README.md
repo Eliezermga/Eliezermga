@@ -1,6 +1,6 @@
 - 👋 Salut, je suis Eliezer Mununga
 - 👀 Je m'intéresse au devellopement de logiciel
-- 🌱 Je suis étudiat en Intelligence Artificielle
+- 🌱 Je suis étudiant en Intelligence Artificielle
 - 📫 Comment me joindre, laissez moi un mail : eliezermunung@outlook.fr 
 <!-- 💞️ Je cherche à collaborer sur... --->
 
