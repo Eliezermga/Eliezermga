@@ -2,7 +2,6 @@
 - 👋 Salut, je suis Eliezer Mununga
 - 👀 Je m'intéresse au devellopement de logiciel
 - 🌱 Je suis étudiant en Intelligence Artificielle
-- 📫 Comment me joindre, laissez moi un mail : eliezermunung@outlook.fr 
 <!-- 💞️ Je cherche à collaborer sur... --->
 
 <!---
@@ -19,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://www.linkedin.com/in/eliezer-mununga-b3a776269"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-EliezerMununga-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://x.com/Eliezer_Mga"><img alt="x" src="https://img.shields.io/badge/X-EliezerMga-blue?style=flat-square&logo=x-twitter"></a>
-<a href="mailto:eliezermung@outlook.fr"><img alt="Mail" src="https://img.shields.io/badge/Email-EliezerMununga-blue?style=flat-square"></a>
+  <a href="https://instagram.com/eliezer_mga"><img alt="Instagram" src="https://img.shields.io/badge/X-Eliezer_Mga-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:eliezermunung@outlook.fr"><img alt="Mail" src="https://img.shields.io/badge/Email-EliezerMununga-blue?style=flat-square"></a>
 </p>
 
 ## Visitor count
