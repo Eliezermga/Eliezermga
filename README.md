@@ -1,13 +1,14 @@
-<!-- ## About Me
-- 👋 Salut, je suis Eliezer Mununga
-- 👀 Je m'intéresse au devellopement de logiciel
-- 🌱 Je suis étudiant en Intelligence Artificielle -->
-<!-- 💞️ Je cherche à collaborer sur... --->
+## About Me
 
-<!---
-Eliezermga/Eliezermga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **passionate** computer scientist, currently studying computer science, with a strong desire to contribute to technological innovation, especially in the Democratic Republic of Congo. My expertise includes software development, data management, and integrating advanced IT solutions. Through my projects, I aim to create practical solutions that meet user needs and promote digital inclusion.😉
+
+## Skills
+
+- **Programming Languages**: Python, JavaScript, Pho, Java
+- **Technologies**: Git
+- **Web Development**: HTML5, CSS3...
+- **Databases**: MySQL, Pl/sql
+
 ## MY GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
