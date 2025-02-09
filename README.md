@@ -4,7 +4,7 @@ I am a **passionate** computer scientist, currently studying computer science, w
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Pho, Java
+- **Programming Languages**: Python, JavaScript, Php, Java
 - **Technologies**: Git
 - **Web Development**: HTML5, CSS3...
 - **Databases**: MySQL, Pl/sql
