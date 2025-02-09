@@ -1,7 +1,7 @@
-## About Me
+<!-- ## About Me
 - 👋 Salut, je suis Eliezer Mununga
 - 👀 Je m'intéresse au devellopement de logiciel
-- 🌱 Je suis étudiant en Intelligence Artificielle
+- 🌱 Je suis étudiant en Intelligence Artificielle -->
 <!-- 💞️ Je cherche à collaborer sur... --->
 
 <!---
