@@ -4,7 +4,7 @@ I am a **passionate** computer scientist, currently studying computer science, w
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Php, Java
+- **Programming Languages**: Python, JavaScript, Php, Java, Dart
 - **Databases**: MySQL, PostgreSQL 
 
 ## MY GitHub Stats
