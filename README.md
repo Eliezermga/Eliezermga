@@ -25,10 +25,18 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ## Let's get in touch
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eliezer-mununga-b3a776269"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-EliezerMununga-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://x.com/EliezerMga"><img alt="x" src="https://img.shields.io/badge/x-EliezerMga-blue?style=flat-square&logo=x"></a>
-  <a href="https://instagram.com/eliezer_mga"><img alt="Instagram" src="https://img.shields.io/badge/Intagram-Eliezer_Mga-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:eliezermunung@outlook.fr"><img alt="outlook" src="https://img.shields.io/badge/Email-EliezerMununga-blue?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/eliezer-mununga-b3a776269">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eliezer-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/EliezerMga">
+    <img alt="X" src="https://img.shields.io/badge/EliezerMga-000000?style=flat-square&logo=x&logoColor=white">
+  </a>
+  <a href="https://instagram.com/eliezer_mga">
+    <img alt="Instagram" src="https://img.shields.io/badge/Eliezer_Mga-E1306C?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:eliezermunung@outlook.fr">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EliezerMununga-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white">
+  </a>
 </p>
 
 
