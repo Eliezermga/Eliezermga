@@ -4,8 +4,12 @@ I am a **passionate** computer scientist, currently studying computer science, w
 
 ## Skills
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), JavaScript, Php, Java, Dart
-- **Databases**: MySQL, PostgreSQL 
+- **Programming Languages** :
+
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/-javascript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![php](https://img.shields.io/badge/-php-3776AB?style=flat-square&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/-dart-3776AB?style=flat-square&logo=dart&logoColor=white) 
+- **Databases** :
+
+  ![Postgresql](https://img.shields.io/badge/-postgresql-3776AB?style=flat-square&logo=postgresql&logoColor=white) ![Mysql](https://img.shields.io/badge/-mysql-3776AB?style=flat-square&logo=mysql&logoColor=white) 
 
 ## MY GitHub Stats
 
@@ -21,6 +25,4 @@ I am a **passionate** computer scientist, currently studying computer science, w
 <a href="mailto:eliezermunung@outlook.fr"><img alt="outlook" src="https://img.shields.io/badge/Email-EliezerMununga-blue?style=flat-square"></a>
 </p>
 
-## Visitor count
 
-<img src="https://profile-counter.glitch.me/eliezermga/count.svg" />
