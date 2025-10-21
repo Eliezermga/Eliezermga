@@ -4,12 +4,12 @@ I am a **passionate** computer scientist, currently studying computer science, w
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, Php, Java, Dart
+- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), JavaScript, Php, Java, Dart
 - **Databases**: MySQL, PostgreSQL 
 
 ## MY GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&theme=tokyonight)
 
 
 ## Let's get in touch
