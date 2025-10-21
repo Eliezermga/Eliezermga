@@ -17,7 +17,7 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 
-## GitHub Stats :
+## 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&theme=tokyonight)
 
