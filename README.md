@@ -30,5 +30,3 @@ I am a **passionate** computer scientist, currently studying computer science, w
   <a href="mailto:eliezermunung@outlook.fr">
     <img alt="Email" src="https://img.shields.io/badge/Email-Eliezer-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
 </p>
-
-
