@@ -3,6 +3,7 @@
 I am a **passionate** computer scientist, currently studying computer science, with a strong desire to contribute to technological innovation, especially in the Democratic Republic of Congo. My expertise includes software development, data management, and integrating advanced IT solutions. Through my projects, I aim to create practical solutions that meet user needs and promote digital inclusion.😉
 ## Framework:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -15,7 +16,7 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## Learning:
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-02569B?style=flat-square&logo=React&logoColor=white)
 
 ## 
 
