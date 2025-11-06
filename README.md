@@ -22,7 +22,6 @@ I am a **passionate** computer scientist, currently studying computer science, w
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&theme=tokyonight)
 
-
 ## Let's get in touch
 
 <p align="left">
