@@ -4,6 +4,7 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ## Framework:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-02569B?style=flat-square&logo=React&logoColor=white)
 
 ## Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
