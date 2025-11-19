@@ -16,8 +16,6 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Learning:
-![React.js](https://img.shields.io/badge/-React.js-02569B?style=flat-square&logo=React&logoColor=white)
 
 ## 
 
