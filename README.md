@@ -17,10 +17,6 @@ I am a **passionate** computer scientist, currently studying computer science, w
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-## 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliezermga&show_icons=true&theme=tokyonight)
-
 ## Let's get in touch
 
 <p align="left">
