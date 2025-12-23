@@ -2,6 +2,8 @@
 
 I am a **passionate** computer scientist, currently studying computer science, with a strong desire to contribute to technological innovation, especially in the Democratic Republic of Congo. My expertise includes software development, data management, and integrating advanced IT solutions. Through my projects, I aim to create practical solutions that meet user needs and promote digital inclusion.😉
 
+
+
 ## Let's get in touch
 
 <p align="left">
